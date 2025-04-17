@@ -19,7 +19,7 @@ The dataset is called [email](https://www.openintro.org/data/index.php?data=emai
 
 ## Methodology
 
-- Irrelevant and low-variance predictors is removed to simplify the dataset.
+- Irrelevant and low-variance predictors are removed to simplify the dataset.
 
 - Dataset is randomly divided into training (70%) and test sets (30%).
 
