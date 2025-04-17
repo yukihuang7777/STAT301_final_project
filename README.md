@@ -44,3 +44,5 @@ The project was executed in R, using:
 - `pROC`
 
 - `tidyverse`
+
+*This project was developed as part of STAT301 at UBC.*
